@@ -19,7 +19,7 @@ export const Welcome = () => {
 
           <div>
             <span className='text-2xl font-semibold leading-9'>
-              {t('welcomeTo')} {t('EZ Note')}
+              {t('welcomeTo')} {t('EZNote')}
             </span>
           </div>
 

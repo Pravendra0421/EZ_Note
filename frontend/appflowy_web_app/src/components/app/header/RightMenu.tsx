@@ -49,7 +49,7 @@ function RightMenu () {
         onClose={() => setComingSoon(false)}
       >
         <div className={'text-text-caption'}>
-          🌟 This feature is coming soon. Stay Connected with EZ Note!
+          🌟 This feature is coming soon. Stay Connected with EZNote!
         </div>
       </NormalModal>
     </div>

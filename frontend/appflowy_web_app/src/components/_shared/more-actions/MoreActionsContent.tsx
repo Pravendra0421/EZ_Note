@@ -61,8 +61,9 @@ function MoreActionsContent ({
         Icon: ReportIcon,
         label: t('publish.reportPage'),
         onClick: () => {
-          void openUrl('https://report.appflowy.io/', '_blank');
-        },
+            void openUrl('https://mail.google.com/mail/?view=cm&fs=1&to=vs.eztech@gmail.com', '_blank');
+          }
+          ,
       },
       {
         Icon: TrashIcon,

@@ -96,7 +96,7 @@ function AcceptInvitationPage () {
           {' '}
           {t('invitation.on')}
           {' '}
-          <span className={'whitespace-nowrap'}>EZ Note</span>
+          <span className={'whitespace-nowrap'}>EZNote</span>
 
         </div>
         <Divider className={'max-w-full w-[400px]'} />

@@ -32,7 +32,7 @@ export const ToggleList = memo(
           className={className}
         >
           {/*{children}*/}
-          <div className=' text-4xl font-bold'>Welcome to EZ Note</div>
+          <div className=' text-4xl font-bold'> Welcome To EZNote</div>
         </div>
       </>
     );

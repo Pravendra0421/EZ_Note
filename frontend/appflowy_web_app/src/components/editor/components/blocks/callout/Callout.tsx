@@ -7,15 +7,15 @@ export const Callout = memo(
     return (
       <>
         <div contentEditable={false} className={'absolute w-full select-none px-2 pt-[15px]'}>
-          <CalloutIcon node={node} />
+          {/*<CalloutIcon node={node} />*/}
         </div>
         <div ref={ref} className={`${attributes.className ?? ''} w-full bg-bg-body py-2`}>
           <div
-            {...attributes}
-            className={`flex w-full flex-col rounded border border-line-divider bg-fill-list-active py-2 pl-10`}
+            //{...attributes}
+            //className={`flex w-full flex-col rounded border border-line-divider bg-fill-list-active py-2 pl-10`}
           >
             {/*{children}*/}
-            Ask AI powered by advanced AI models: chat, search, write, and much more ✨
+            {/*Ask AI powered by advanced AI models: chat, search, write, and much more ✨*/}
           </div>
         </div>
       </>
